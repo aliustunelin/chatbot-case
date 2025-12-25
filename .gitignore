@@ -33,15 +33,10 @@ logs/
 __pycache__/
 *.pyc
 
-docker-compose.yml
-scripts/sql_scripts/demo_data.sql
 
 # ignore logs
 logs/
 *.log
-src/model/database.py
-scripts/db_setup.sh
-docker-compose.yml
 .cursor/
 .vscode/
 backup-data/
