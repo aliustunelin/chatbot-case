@@ -1,0 +1,24 @@
+# OpenAI & AI
+openai>=1.0.0
+numpy>=1.24.0
+
+fastapi==0.104.1
+python-dotenv==1.0.0
+python-multipart==0.0.6
+pydantic==2.4.2
+mutagen==1.47.0
+pytz==2024.1
+requests>=2.28.0
+redis>=5.0.0
+
+# Logging
+loguru==0.7.2
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.0
+
+# Development
+uvicorn==0.24.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
