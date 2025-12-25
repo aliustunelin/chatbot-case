@@ -1,0 +1,15 @@
+[] add base arch
+[] add service logic
+[] add main chatbot arch
+
+
+[] add conversation template (openai chat temp)
+
+[] add embedding
+
+[] add cache (mongo, redis)
+
+[] conversation history
+
+[] dockerize
+[] testler 

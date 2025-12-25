@@ -1,0 +1,47 @@
+#ignore virtual environment
+.venv/
+
+#ignore environment variables
+.env
+
+#ignore .DS_Store
+.DS_Store
+
+#ignore .pyc files
+*.pyc
+
+#ignore .pyo files
+*.pyo
+
+#ignore .pyd files
+*.pyd
+
+#ignore data directory
+tmp/
+
+.prettierrc
+
+venv/
+pyproject.toml
+
+.vscode/
+
+# ignore logs
+logs/
+*.log
+
+__pycache__/
+*.pyc
+
+docker-compose.yml
+scripts/sql_scripts/demo_data.sql
+
+# ignore logs
+logs/
+*.log
+src/model/database.py
+scripts/db_setup.sh
+docker-compose.yml
+.cursor/
+.vscode/
+backup-data/
